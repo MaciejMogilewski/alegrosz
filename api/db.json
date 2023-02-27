@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pomidor malinowy",
+      "description": "",
+      "price": 4.56,
+      "category": "warzywa",
+      "subcategories": "pomidory",
+      "image": "",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "Pomidor rzymski",
+      "description": "",
+      "price": 6.32,
+      "category": "warzywa",
+      "subcategories": "pomidory",
+      "image": "",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "name": "Pomidor koktajlowy",
+      "description": "",
+      "price": 8.43,
+      "category": "warzywa",
+      "subcategories": "pomidory",
+      "image": "",
+      "comments": []
+    }
+  ]
+}
