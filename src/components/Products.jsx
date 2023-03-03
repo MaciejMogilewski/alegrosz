@@ -1,5 +1,6 @@
 import {useEffect, useState} from "react";
 import Search from "./Search";
+import SortByPrice from "./SortByPrice";
 
 function Products(props) {
     const [productList, setProductList] = useState([]);
@@ -29,6 +30,7 @@ function Products(props) {
             <Search
                 setQuery={setQuery}
             />
+            <SortByPrice/>
 
             <h2>Products</h2>
 
